@@ -1,3 +1,6 @@
+.vscode/
+localhost.session.sql
+
 # Logs
 logs
 *.log
